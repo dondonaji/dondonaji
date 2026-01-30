@@ -98,7 +98,7 @@ Soy un desarrollador centrado en **producto** que convierte problemas complejos 
   <a href="mailto:eldonaji@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
-  <a href="https://dondonaji.github.io/linkinbiodonaji">
+  <a href="https://porfolio-2026.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit_Site-green?style=for-the-badge&logo=google-chrome" alt="Portfolio" />
   </a>
 </div>

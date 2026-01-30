@@ -92,10 +92,10 @@ Soy un desarrollador centrado en **producto** que convierte problemas complejos 
 ---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/tudireccionreal/">
+  <a href="https://www.linkedin.com/in/geovanni-ramirez-142b38180/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:tuemail@real.com">
+  <a href="mailto:eldonaji@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
   <a href="https://dondonaji.github.io/linkinbiodonaji">
